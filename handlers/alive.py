@@ -125,7 +125,7 @@ async def alive(client: Client, e: Message):
         reply_markup=InlineKeyboardMarkup(
                 [[
                     InlineKeyboardButton(
-                        "• Jᴏɪɴ Mʏ Mᴀsᴛᴇʀ's GC •", url="https://t.me/Superior_Bots")
+                        "• Jᴏɪɴ Mʏ Mᴀsᴛᴇʀ's GC •", url="https://t.me/WingsOfFreedom2")
                 ], [
                     InlineKeyboardButton(
                         "• 𝐑𝐞𝐩𝐨 •", url="https://unsplash.com/photos/JBHN4EeWysE")

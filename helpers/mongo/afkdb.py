@@ -1,7 +1,7 @@
 from helpers.mongo import cli
 import asyncio
 
-collection = cli["tsc"]["afk"]
+collection = cli["zaid"]["afk"]
 
 
 async def set_afk(afk_status, afk_since, reason):

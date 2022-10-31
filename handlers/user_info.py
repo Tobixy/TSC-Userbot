@@ -1,6 +1,6 @@
 from pyrogram import Client, filters
 from pyrogram.types import Message
-from handlers.help import *
+from handlers.settings.main_settings import module_list, file_list
 
 from prefix import my_prefix
 prefix = my_prefix()
@@ -86,9 +86,5 @@ async def get_full_user_inf(client: Client, message: Message):
         await message.edit(f"**An error occured...**\n\n{f}")
 
 
-add_command_help(
-    "userinfo",
-    [
-        [".userinfo", "Know About a User."],
-    ],
-)
+module_list['Userinfo'] = f'{prefix}user_info | {prefix}user_info_full'
+file_list['Userinfo'] = 'user_info.py'

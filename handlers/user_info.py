@@ -1,6 +1,6 @@
 from pyrogram import Client, filters
 from pyrogram.types import Message
-from handlers.settings.main_settings import mod
+from handlers.help import *
 
 from prefix import my_prefix
 prefix = my_prefix()

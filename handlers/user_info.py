@@ -86,5 +86,9 @@ async def get_full_user_inf(client: Client, message: Message):
         await message.edit(f"**An error occured...**\n\n{f}")
 
 
-module_list['Userinfo'] = f'{prefix}user_info | {prefix}user_info_full'
-file_list['Userinfo'] = 'user_info.py'
+add_command_help(
+    "userinfo",
+    [
+        [".userinfo", "Know About a User."],
+    ],
+)

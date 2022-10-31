@@ -207,15 +207,15 @@ help_menu = f"""
 ➖➖➖➖➖➖➖➖➖➖➖➖
 ✘**There are following categories**
 
-‣`owner` : Get all owner commands and its usage
-‣`spam` : Get all spam commands and its usage
-‣`dm` : Get all dm commands and its usage
-‣`join` : Get join commands and its usage
-‣`leave` : Get leave commands and its usage
-‣`userbot` : Get all userbot commands
-‣`replyraid` : Get all replyraids commands
-‣`inviteall` : Get all inviting commands
-‣`broadcast` : Get all globally commands
+‣`.help owner` : Get all owner commands and its usage
+‣`.help spam` : Get all spam commands and its usage
+‣`.help dm` : Get all dm commands and its usage
+‣`.help join` : Get join commands and its usage
+‣`.help leave` : Get leave commands and its usage
+‣`.help userbot` : Get all userbot commands
+‣`.help replyraid` : Get all replyraids commands
+‣`.help inviteall` : Get all inviting commands
+‣`.help broadcast` : Get all globally commands
 
 ✘**Type** .help "category" **to get all syntax in that category and its usage**
 ✘**Example**: `.help replyraid`

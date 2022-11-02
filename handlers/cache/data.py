@@ -205,7 +205,7 @@ RAID = [
 ]
 
 
-GRP = "@TheSupportChat|@MELODY_QUEEN20|@Shubhanshutya|Timesisnotwaiting|MELODY_QUEEN20|Shubhanshutya"
+GRP = "@WingsOfFreedom2"
 
 GROUP = [-1001601632136, -1001729293806]
 

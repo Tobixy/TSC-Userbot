@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">𝐙𝐚𝐢𝐝 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 🔥 </p>
+<p align="center">TSC 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 🔥 </p>
 
 - A First Telegram Userbot Project With Multi Clients Based On PyroGram
 - Codes doesn't matter how many clients booted it's work separatly with every client! Faster af!
 - Deploy Upto 50 Ids!
 
-<p align="center"><a href="https://t.me/TheUpdatesChannel"><img src="https://telegra.ph/file/723d8ef9fb7e721135221.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/TheUpdatesChannel"><img src="https://telegra.ph/file/751f448f1d78bdb431e77.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 

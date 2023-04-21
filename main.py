@@ -38,7 +38,7 @@ if not API_HASH:
 if ALIVE_IMG:
     ALIVE_PIC = ALIVE_IMG
 else: 
-    ALIVE_PIC = 'https://telegra.ph/file/680586d8e6c29f7e321f6.jpg'
+    ALIVE_PIC = 'https://te.legra.ph/file/c05f2f9ea0341b3c8b813.jpg'
 
 if LOG_CHAT:
     LOG_GROUP = LOG_CHAT
